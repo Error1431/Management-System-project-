@@ -1,0 +1,12 @@
+Navigate to frontend directory
+{}Bash
+cd frontend
+
+Install dependencies
+{}bash
+npm install
+
+Start the development server
+{}
+bash
+npm start
